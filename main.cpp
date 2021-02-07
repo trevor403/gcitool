@@ -44,7 +44,6 @@ void mode_error() {
         "info_raw_slot",
         "replace_all_slots",
         "copy_battle_data_into_pc",
-        "inject_pc_into_slot",
     };
 
     std::cerr << "Must provide an action mode [" << boost::join(modes, ", ") << "]" << std::endl;
