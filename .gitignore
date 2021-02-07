@@ -1,0 +1,9 @@
+.vscode/
+dist/
+LibPkmGC_linux/
+LibPkmGC_macos/
+LibPkmGC_win32/
+picojson.h
+gcitool
+*.gci
+*.raw
